@@ -129,7 +129,7 @@ Don't forget to install for the features in these photos and more! **It is possi
 **Install GCommands:** `yarn add gcommands`
 
 <a href="https://discord.gg/wDgRk7TC24">GCommands Discord</a> 
-<a href="https://gcommands.js.org/guide">GCommands Guide</a> 
+<a href="https://gcommands.js.org/guide", align='center'>GCommands Guide</a> 
 
 
 
