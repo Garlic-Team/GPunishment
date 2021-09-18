@@ -124,13 +124,9 @@ As the **package manager**, we recommend `yarn`. Enter `yarn install` command in
 Don't forget to install for the features in these photos and more! **It is possible to achieve wonders with GCommands!**
 
 # LINKS
-**GCommands Discord:** 
-**GCommands Guide:** https://gcommands.js.org/guide
-**Install GCommands:** `yarn add gcommands`
-
 <a href="https://discord.gg/wDgRk7TC24">GCommands Discord</a> 
-<a href="https://gcommands.js.org/guide" style="background-color:Tomato;>GCommands Guide</a> 
-<h1 align="center">GPunishment</h1>
+<a href="https://gcommands.js.org/guide">GCommands Guide</a> 
+
 
 
 
