@@ -121,6 +121,7 @@ As the **package manager**, we recommend `yarn`. Enter `yarn install` command in
 
 ![REGISTERY](https://cdn.discordapp.com/attachments/882148968883183616/888756242632282134/Ekran_Resmi_2021-09-18_13.59.51.png)
 ![REGISTERY](https://cdn.discordapp.com/attachments/882148968883183616/888756654395498516/Ekran_Resmi_2021-09-18_14.01.29.png)
+
 Don't forget to install for the features in these photos and more! **It is possible to achieve wonders with GCommands!**
 
 # LINKS
