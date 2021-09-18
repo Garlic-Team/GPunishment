@@ -113,7 +113,7 @@ As the **package manager**, we recommend `yarn`. Enter `yarn install` command in
 ![Inform](https://cdn.discordapp.com/attachments/882148968883183616/888753996205023282/Ekran_Resmi_2021-09-18_13.50.49.png)
 
 ### Take the wind at your back!
-> *Punishing criminals has never been this fun haha!*
+> *Banned by Admin!*
 ![Banned](https://cdn.discordapp.com/attachments/882148968883183616/888755081716047892/Ekran_Resmi_2021-09-18_13.55.13.png)
 
 ### You are in control of everything!
