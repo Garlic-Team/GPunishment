@@ -127,6 +127,8 @@ Don't forget to install for the features in these photos and more! **It is possi
 <a href="https://discord.gg/wDgRk7TC24">GCommands Discord</a> 
 <a href="https://gcommands.js.org/guide">GCommands Guide</a> 
 
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p> 
 
 
 
