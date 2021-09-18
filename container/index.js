@@ -103,3 +103,15 @@ client
     _muteLoop();
     _vmuteLoop();
   })
+
+  client.on("guildMemberAdd", async (member) => {
+    let search = await con.promise().query(`SELECT * FROM Penalties WHERE member_id = '${member.user.id}' AND punishment_type = 'TEMP-MUTE' AND is_ended = 0`)
+    if (search[0].length >= 1) {
+      member.roles.add(settings.other.muteRole, `It left the server while it was suspended. (Automatic.)`)
+    }
+  
+    let search_two = await con.promise().query(`SELECT * FROM Penalties WHERE member_id = '${member.user.id}' AND punishment_type = 'TEMP-VMUTE' AND is_ended = 0`)
+    if (search_two[0].length >= 1) {
+      member.voice.setMute(true, `It left the server while it was suspended. (Automatic.)`)
+    }
+  })
