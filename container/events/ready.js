@@ -9,6 +9,6 @@ module.exports = class Ready extends Event {
         })
     }
     async run(client) {
-        await client.user.setPresence({ activities: [{ name: settings.bot.status, status: "STREAMING" }] });
+        await client.user.setPresence({ activities: [{ name: settings.bot.status, status: "dnd" }] });
     }
 };
