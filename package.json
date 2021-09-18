@@ -1,0 +1,17 @@
+{
+  "name": "gpunishment",
+  "version": "1.0.0",
+  "description": "Fresh GPunishment build.",
+  "main": "container/index.js",
+  "author": "Sude Magdalena ALAÇATI",
+  "license": "MIT",
+  "dependencies": {
+    "@keyv/mysql": "^1.1.4",
+    "chalk": "^4.1.1",
+    "dayjs": "^1.10.6",
+    "discord.js": "^13.1.0",
+    "gcommands": "^7.0.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.12"
+  }
+}

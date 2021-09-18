@@ -1,0 +1,34 @@
+{
+    "bot":  {
+    "name":  "BOT_NAME",
+    "token":  "BOT_TOKEN",
+    "prefix":  "BOT_PREFIX",
+    "authors":  ["BOT_AUTHORS"],
+    "testers":  ["BOT_TESTERS"],
+    "server":  "BOT_SERVER",
+    "status":  "BOT_STATUS"
+     },
+    
+    "colors":  [
+    "f6b10f",
+    "EC6969",
+    "27d976",
+    "c61069"
+     ],
+    
+    "mysqlDefs":  {
+    "host":  "MYSQL_HOST",
+    "user":  "MYSQL_USER",
+    "dbName":  "MYSQL_DBNAME",
+    "password":  "MYSQL_PASS"
+     },
+    
+    "other":  {
+    "penaltyLogChannel":  "SERVER_LOG_CHANNEL",
+    "muteRole":  "SERVER_MUTE_ROLE",
+    "muterRole":  "SERVER_MUTE_STAFF_ROLE",
+    "vmuterRole":  "SERVER_VMUTE_STAFF_ROLE",
+    "banerRole":  "SERVER_BAN_STAFF_ROLE",
+    "penaltierRole":  "SERVER_PENALTY_STAFF_ROLE"
+     }
+    }
