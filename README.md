@@ -20,7 +20,7 @@ USE GPunishment;
 CREATE  TABLE Penalties (
 pid INT  PRIMARY  KEY AUTO_INCREMENT NOT  NULL,
 member_id CHAR(18) NOT  NULL,
-punishment_type ENUM ('WARN','TEMP-MUTE','TEMP-VMUTE','TEMP-JAIL','BAN') NOT  NULL,
+punishment_type ENUM ('TEMP-MUTE','TEMP-VMUTE','BAN') NOT  NULL,
 punishment_reason VARCHAR(255) NOT  NULL,
 end_of_punishment CHAR(13) NOT  NULL,
 staff_id CHAR(18) NOT  NULL,
@@ -32,10 +32,8 @@ date_now DATETIME  DEFAULT (CURRENT_TIME) NOT  NULL
 CREATE  TABLE TotalPenalties (
 pid INT  UNIQUE AUTO_INCREMENT NOT  NULL,
 member_id CHAR(18) PRIMARY  KEY  NOT  NULL,
-warn INT  DEFAULT  0,
 temp_mute INT  DEFAULT  0,
 temp_vmute INT  DEFAULT  0,
-temp_jail INT  DEFAULT  0,
 ban INT  DEFAULT  0,
 total_points INT  DEFAULT  0
 );
