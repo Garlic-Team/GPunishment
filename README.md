@@ -113,7 +113,7 @@ As the **package manager**, we recommend `yarn`. Enter `yarn install` command in
 ![Inform](https://cdn.discordapp.com/attachments/882148968883183616/888753996205023282/Ekran_Resmi_2021-09-18_13.50.49.png)
 
 ### Take the wind at your back!
-> *Every action taken is shown in the Log channel.*
+> *Punishing criminals has never been this fun!*
 ![Inform](https://cdn.discordapp.com/attachments/882148968883183616/888753996205023282/Ekran_Resmi_2021-09-18_13.50.49.png)
 
 ### You are in control of everything!
@@ -131,11 +131,3 @@ Don't forget to install for the features in these photos and more! **It is possi
 - **GCommands Discord:** https://discord.gg/wDgRk7TC24
 - **GCommands Guide:** https://gcommands.js.org/guide
 - **Install GCommands:** `yarn add gcommands`
-
-
-
-
-
-
-
-
