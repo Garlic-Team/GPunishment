@@ -1,5 +1,7 @@
 <h1 align="center">GPunishment</h1>
-> * **GPunishment** gives you a chance to punish with **Slash commands**. With **GPunishment** you can control members with `mute`, `v-mute` and `ban` commands. Everything is recorded under database using **MySQL**. It's easy to find out which member got suspended and when, how long the punishment will last, the reason for the punishment and more. I would like to thank `Armagan#4869` for helping me with this project. So let's get started!* 
+> ***GPunishment** gives you a chance to punish with **Slash commands**. With **GPunishment** you can control members with `mute`, `v-mute` and `ban` commands. Everything is recorded under database using **MySQL**. It's easy to find out which member got suspended and when, how long the punishment will last, the reason for the punishment and more. I would like to thank `Armagan#4869` for helping me with this project. So let's get started!* 
+
+> ***GPunishment** gives you a chance to punish with **Slash commands**. With **GPunishment** you can control members with `mute`, `v-mute` and `ban` commands. Everything is recorded under database using **MySQL**. It's easy to find out which member got suspended and when, how long the punishment will last, the reason for the punishment and more. I would like to thank `Armagan#4869` for helping me with this project. So let's get started!* 
 
 ## Preparation of MySQL
 > MySQL is a very good database for such bots. If you didn't download it (`MySQL Community Server`) at first, you should download it from Google. I'll leave some links below.
