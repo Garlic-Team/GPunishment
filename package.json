@@ -9,8 +9,8 @@
     "@keyv/mysql": "^1.1.4",
     "chalk": "^4.1.1",
     "dayjs": "^1.10.6",
-    "discord.js": "^13.1.0",
-    "gcommands": "^7.0.1",
+    "discord.js": "^14.0.0",
+    "gcommands": "^9.1.0",
     "mysql2": "^2.2.5",
     "nodemon": "^2.0.12"
   }
