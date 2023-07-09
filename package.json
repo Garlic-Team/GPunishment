@@ -12,6 +12,6 @@
     "discord.js": "^13.1.0",
     "gcommands": "^7.0.1",
     "mysql2": "^2.2.5",
-    "nodemon": "^2.0.12"
+    "nodemon": "^3.0.0"
   }
 }
